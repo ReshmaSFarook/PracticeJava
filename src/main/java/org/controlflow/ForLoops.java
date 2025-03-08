@@ -1,4 +1,7 @@
 package org.controlflow;
+import org.junit.jupiter.api.Test;
+
+import java.util.Scanner;
 
 public class ForLoops {
     public static void main(String[] args) {
@@ -15,5 +18,7 @@ public class ForLoops {
             System.out.println(i);
         }
     }
+
+
 
 }
